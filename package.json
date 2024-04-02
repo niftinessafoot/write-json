@@ -1,6 +1,6 @@
 {
   "name": "@afoot/write-json",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Parse and write json to the filesystem.",
   "scripts": {
     "prebuild": "npm run clean",
