@@ -1,0 +1,14 @@
+{
+	"name": "test",
+	"description": "",
+	"version": "0.0.0",
+	"keywords": [
+		"javascript",
+		"module"
+	],
+	"scripts": {
+		"test": "echo `test`"
+	},
+	"devDependencies": {},
+	"files": []
+}
