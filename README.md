@@ -1,10 +1,11 @@
 # write-json
 
-A JSON file-writing package designed for NPM initializers and places where node needs to write static files.
+A JSON file-writing package designed for NPM initializers and places where Node needs to write static files.
 
 ## installation
 
 install: `npm i --D @afoot/write-json`
+
 import: `import writeJson from '@afoot/write-json'`
 
 ## documentation
